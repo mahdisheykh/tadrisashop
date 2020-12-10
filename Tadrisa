@@ -1,14 +1,18 @@
+
 [
   {
     "نام": "کاپشن",
-    "قیمت": "2000"
+    "قیمت": "2000",
+    "عکس": "https://www.digikala.com/product/dkp-3517316/"
   },
   {
     "نام": "تیشرت",
-    "قیمت": "30000"
+    "قیمت": "30000",
+    "عکس": "https://www.digikala.com/product/dkp-1926327/%D8%AA%DB%8C%D8%B4%D8%B1%D8%AA-%D8%A2%D8%B3%D8%AA%DB%8C%D9%86-%D8%A8%D9%84%D9%86%D8%AF-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87-%D8%B7%D8%B1%D8%AD-vikings-%DA%A9%D8%AF-s418"
   },
   {
     "نام": "ساعت",
-    "قیمت": "122000"
+    "قیمت": "122000",
+    "عکس": "https://www.digikala.com/product/dkp-3126254/%D8%B3%D8%A7%D8%B9%D8%AA-%D9%85%DA%86%DB%8C-%D8%B9%D9%82%D8%B1%D8%A8%D9%87-%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87-33-%D8%A7%D9%84%D9%85%D9%86%D8%AA-%D9%85%D8%AF%D9%84-331521?ads_cookie\u003deyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiYnJhbmQiLCJpZCI6MzQ5LCJleHBpcmVfYXQiOjE2MTAyODUxMDgsInByb2R1Y3RfaWQiOjMxMjYyNTR9.ncxqgXLiNuvbTk73zEDS1b9fpRKEIcp8fzcZ1QZ1rCc\u0026click_expire\u003d1"
   }
 ]
